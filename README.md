@@ -17,8 +17,10 @@ Use a gramática e a ortografia corretas do idioma alvo. Evite erros comuns de t
 Mantenha a formatação e o estilo do texto original sempre que possível.
 
 Nem todas as expansões foram traduzidas, visto que a API tem um limite mensão de 500.000 caracteres (gratúitos), Sendo possível traduzir 2 expansões por mês.
+```
 Expansões traduzidas:
-
+```
+```
 Expansões a traduzir:
 Conquest of Paradise
 Wealth of Nations
@@ -37,6 +39,7 @@ Dharma
 Golden Century
 Emperor
 Leviathan
+```
 
 Nota
 Este projeto não é afiliado à Paradox Interactive e não possui qualquer ligação oficial com o desenvolvedor do jogo. É um esforço voluntário da comunidade para melhorar a experiência de jogo para pessoas que falam outros idiomas.
