@@ -1,0 +1,17 @@
+﻿l_english:
+ DEVASTATION_FROM_MIGRATORY_TRIBE:1 "Pastamento Tribal: $VAL|-2$\n"
+ DEVELOPMENT_FROM_MIGRATORY_TRIBE:0 "Pastando em $PROV|Y$: $VAL|+3$\n"
+ TRIBE_ADM_DEV:0 "$VAL|2$ £adm£"
+ TRIBE_DIP_DEV:0 "$VAL|2$ £dip£"
+ TRIBE_MIL_DEV:0 "$VAL|2$ £mil£"
+ CAN_NOT_EXPLOIT_MIGRATORY_TRIBE:0 "§RMigratory Tribes não pode explorar desenvolvimento.§!"
+ IMPPR_MIGRATORY_TRIBE:0 "§RMigratory Tribes não podem desenvolver províncias.§!"
+ PROVINCE_TRIBAL_LAND:0 "O $OWNER|Y$ considera $PROV|Y$ parte de sua casa."
+ MIGRATE_PROVINCE_NOT_ADJECENT:0 "$PROV|Y$ não é adjectivo da sua tribo."
+ MIGRATE_PROVINCE_SETTLED:0 "$PROV|Y$ já está definido por $OWNER|Y$."
+ PROVINCE_MIGRATE_TOOLTIP:0 "Migrar para $PROV|Y$"
+ MIGRATE_PROVINCE_NEED:0 "Precisa $COST|Y$ $POWER|$ de poder para migar.\n"
+ MIGRATE_PROVINCE_COST:0 "Custa $COST|Y$ $POWER|$ de poder\n"
+ CONFIRM_MIGRATE:0 "Confirmar migração"
+ CONFIRM_MIGRATE_TEXT:0 "Voce quer migar para $PROV|Y$?\n"
+
