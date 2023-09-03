@@ -21,6 +21,7 @@ Nem todas as expansões foram traduzidas, visto que a API tem um limite mensão 
 Expansões traduzidas:
 Art of War
 Common Sense
+The Cossacks
 Rights of Man
 Leviathan
 ```
@@ -30,7 +31,6 @@ Conquest of Paradise
 Wealth of Nations
 Res Publica
 El Dorado
-The Cossacks
 Mare Nostrum
 Mandate of Heaven
 Third Rome
