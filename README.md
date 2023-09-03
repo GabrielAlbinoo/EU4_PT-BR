@@ -16,8 +16,30 @@ Ao corrigir uma tradução, forneça uma explicação clara da correção no seu
 Use a gramática e a ortografia corretas do idioma alvo. Evite erros comuns de tradução.
 Mantenha a formatação e o estilo do texto original sempre que possível.
 
-Agradecimentos
-Agradecemos a todos os contribuidores por ajudar a melhorar a tradução do Europa Universalis IV. Sua colaboração é essencial para tornar este jogo mais acessível para pessoas que falam diferentes idiomas.
+Nem todas as expansões foram traduzidas, visto que a API tem um limite mensão de 500.000 caracteres (gratúitos), Sendo possível traduzir 2 expansões por mês.
+```
+Expansões traduzidas:
+Art of War
+Common Sense
+Rights of Man
+Leviathan
+```
+```
+Expansões a traduzir:
+Conquest of Paradise
+Wealth of Nations
+Res Publica
+El Dorado
+The Cossacks
+Mare Nostrum
+Mandate of Heaven
+Third Rome
+Cradle of Civilization
+Rule Britannia
+Dharma
+Golden Century
+Emperor
+```
 
 Nota
 Este projeto não é afiliado à Paradox Interactive e não possui qualquer ligação oficial com o desenvolvedor do jogo. É um esforço voluntário da comunidade para melhorar a experiência de jogo para pessoas que falam outros idiomas.
